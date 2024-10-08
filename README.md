@@ -32,7 +32,7 @@ This type of menial education plagued my childhood and left me starving for true
 #### Structure 
 As previously mentioned, this will be fairly loosely structured, and I will do my best to update this section as it evolves. I tend to include reflections in which I discuss the Deep Dives, what was learned in each section, the insights I gained, and even include problem sets with solutions for those that I believe were particularly beneficial for understanding various outcomes and processes.
 
-For now the structure I have decided on is below and can be read about [here]().
+For now the structure I have decided on is below and can be read about [here](https://github.com/krisyotam/classicalmath/blob/main/structure.md).
 
 ```
 Arithmetic
